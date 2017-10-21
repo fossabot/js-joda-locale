@@ -5,7 +5,8 @@ additional date-time classes that complement those in js-joda
 [![Build Status](https://travis-ci.org/js-joda/js-joda-locale.svg?branch=master)](https://travis-ci.org/js-joda/js-joda-locale)
 ![Sauce Test Status](https://saucelabs.com/buildstatus/js-joda-locale)
 [![Coverage Status](https://coveralls.io/repos/js-joda/js-joda-locale/badge.svg?branch=master&service=github)](https://coveralls.io/github/js-joda/js-joda-locale?branch=master)
-[![Tested node version](https://img.shields.io/badge/tested_with-current_node_LTS-blue.svg?style=flat)]()
+[![Tested node version](https://img.shields.io/badge/tested_with-current_node_LTS-blue.svg?style=flat)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphueper%2Fjs-joda-locale.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphueper%2Fjs-joda-locale?ref=badge_shield)
+()
 [![Greenkeeper badge](https://badges.greenkeeper.io/js-joda/js-joda-locale.svg)](https://greenkeeper.io/)
 
 ![Sauce Test Status](https://saucelabs.com/browser-matrix/js-joda-locale.svg)
@@ -165,3 +166,6 @@ work with plain `js-joda` without using `js-joda-locale`
 * js-joda-locale is released under the [BSD 3-clause license](LICENSE)
 * The author of joda time and the lead architect of the JSR-310 is Stephen Colebourne.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphueper%2Fjs-joda-locale.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphueper%2Fjs-joda-locale?ref=badge_large)
